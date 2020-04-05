@@ -162,7 +162,7 @@ Initial Evaluation and Motivation:
 
 ## 9) Help users recognize, diagnose, and recover from errors
 - The search bar lists options to recover from errors as shown previously. The website offers suggestions such as checking the spelling or using more advanced techniques to narrow the options. 
-<img src="./suggestions.png" width=”50%”>
+<img src="./Error page.png" width=”50%”>
 
 - Users can recognize errors before clicking into registration links because the website italicizes the requirements to draw the users' attention. While the italizication does reduce the likelihood a user would click into the wrong link, bolding the lettering or offering a pop-up message can help distinguish the differences more. Severity Rating (1) 
 <img src="./Registration links.png" width=”50%”>
