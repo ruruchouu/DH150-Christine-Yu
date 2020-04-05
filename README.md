@@ -5,6 +5,13 @@ Motivation
 
 I chose to focus on analyzing websites that are frequently used by economics majors of University of California, Los Angeles, in particular the UCLA official website for economics and the UCLA Summer sessions website. As a frequent user of both these websites, I noticed flaws that can deter users from having an easy to navigate experience. An unpleasant experience can provide difficulties for future economics students and introduce frustrations. Therefore, I aim to label and analyze these flaws using the Jakob Nielsen's 10 Usability Heuristics for User Interface Design to identify usability problems. I hope by doing so I am able to propose potential ways to improve the user experience and interaction with these two websites. 
 
+## Heuristic Evaluation Scale
+
+1- A Cosmetic problem, only fixed if time allows
+2- A Minor usability problem with low fix priority
+3- A Major usability problem that is important to fix and high priority
+4- A usability catastrophe that must be fixed 
+
 ## First Website- UCLA Economics Website
 https://economics.ucla.edu/
 
