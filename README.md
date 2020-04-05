@@ -36,5 +36,13 @@ My first impression of the website is it can be quite cluttered graphically beca
 
 ## 3) User control and Freedom
 
+- When going through the Contact Us page, the user may accidentally click on one of the email addresses. On the MacOS system, this prompts the system to immediately open the "email" appplication. There is no undo function once this occurs so it creates trouble for the user to undo this command manually. I would propose having the option to cancel before the email application is launched. Severity Rating (2)
+
+- When clicking on the "Master" menu link on the top of the page, it redirects the user to a new website that is separate from the primary Economics page. In order to undo this action, the user will have to manually go back through their browser or retype the website because there is no action that appears to indicate that the user is being redirected to a new page. I propose providing a pop-up box to make it obvious that the master's page is a new website and asking the user if they would like to navigate to a new website. Severity Rating (2)
+
+## 4) Consistency and Standards
+
 - 
+
+
 
