@@ -20,7 +20,8 @@ My first impression of the website is it can be quite cluttered graphically beca
 
 ## 1) Visibility of System Status
 
-The website does not always make it clear which page of the website we are on. For example, when you click into a webpage, the menu sidebar does not change so it is unclear which page of navigation we are currently on. Typically, it would be expected that the web page navigation link would be bolded, capitalized, or a different color to ensure the user knows which section they are at. The title of the webpage is listed in large typography, which can offset this issue; however, the user will still struggle to know the system status from the sidebar alone. 
+The website does not always make it clear which page of the website we are on. For example, when you click into a webpage, the menu sidebar does not change so it is unclear which page of navigation we are currently on. Typically, it would be expected that the web page navigation link would be bolded, capitalized, or a different color to ensure the user knows which section they are at. The title of the webpage is listed in large typography, which can offset this issue; however, the user will still struggle to know the system status from the sidebar alone. Severity Rating (2)
 
 <img src="./Website sidebar.png" width=”50%”>
+
 
