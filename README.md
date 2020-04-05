@@ -116,9 +116,15 @@ The website appears to be easy to navigate. They have a relatively minimalist de
 
 ## 2) Match between System and the Real World
 
--   
+-   In the website, the links are frequently denoted with acronyms such as SIS and SCIP, which can be confusing to new users. New users will not likely be familiar with these acronyms without context. I suggest providing a brief introduction on the home page to provide context for these acronyms so that users will know what differentiates each program. Severity Rating (2)
+
+- Additionally when navigating the dropdown menu, the difference between the label of a U.S. Student and U.S. High School student is not immediately clear to the user. I recommend labeling U.S. Student as U.S. College student or U.S. Non-High School student to differentiate the terms. Severity Rating (1)
+
 ## 3) User control and Freedom
+
+- 
 ## 4) Consistency and Standards
+- 
 ## 5) Error Prevention
 
 - When the user fails to type in the search bar, this error message appears to let the user know that they failed to enter any keywords. This demonstrates that the website paid attention to providing error prevention methods to their users. 
