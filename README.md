@@ -98,8 +98,10 @@ Information about the Website:
 
 The UCLA Summer sessions website serves as the main portal for all students seeking to take a summer course at UCLA. Its users includes US high school students, international high school students, and continuing undergraduate students. The website provides information on fees, processing procedures, and content related to summer academic coursework. The Summer Sessions website contains 4 main dropdown menus- "I am a/an...", "Programs", "Fees", and "Register". This website is managed by UCLA Summer sessions department. 
 
-Intial Evaluation: 
-The website appears to be easy to navigate. They have a relatively minimalist design with only 4 dropdown menus. The homepage also has a simple design with 6 navigation links. There
+<img src="./Home page.png" width=”50%”>
+
+Initial Evaluation: 
+The website appears to be easy to navigate. They have a relatively minimalist design with only 4 dropdown menus. The homepage also has a simple design with 6 navigation links. There is a footer bar with "Contact Us", "FAQ", and various social media links which follows standard conventions. The website appears to be well organized and not overly confusing or complicated. Within some of the pages, there is an inconsistent sense of formatting and spacing, in which some pages choose a 2 column approach to format their information. Overall, it seems there is some consideration for user experience within the website. 
 
 ## 1) Visibility of System Status
 
@@ -107,12 +109,13 @@ The website appears to be easy to navigate. They have a relatively minimalist de
 
 <img src="./Visibilty of System.png" width=”50%”>
 
-- The pages of Incoming and Continuing UCLA Student under the dropdown menu for "I am a/an..." both start with the same initial appearance. They include the same video and relatively similar layout which makes it difficult for a new user to discern whether they have navigated to the correct page. I recommend labeling a clear bold title at the top of the page to make sure the user is certain they have navigated to the correct page. 
-
+- The pages of Incoming and Continuing UCLA Student under the dropdown menu for "I am a/an..." both start with the same initial appearance. They include the same video and relatively similar layout which makes it difficult for a new user to discern whether they have navigated to the correct page. I recommend labeling a clear bold title at the top of the page to make sure the user is certain they have navigated to the correct page. Severity Rating (2)
 
 <img src="./Page overview.png" width=”50%”>
 
 ## 2) Match between System and the Real World
+
+- 
 ## 3) User control and Freedom
 ## 4) Consistency and Standards
 ## 5) Error Prevention
