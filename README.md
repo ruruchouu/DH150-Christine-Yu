@@ -101,6 +101,7 @@ The UCLA Summer sessions website serves as the main portal for all students seek
 <img src="./Home page.png" width=”50%”>
 
 Initial Evaluation: 
+
 The website appears to be easy to navigate. They have a relatively minimalist design with only 4 dropdown menus. The homepage also has a simple design with 6 navigation links. There is a footer bar with "Contact Us", "FAQ", and various social media links which follows standard conventions. The website appears to be well organized and not overly confusing or complicated. Within some of the pages, there is an inconsistent sense of formatting and spacing, in which some pages choose a 2 column approach to format their information. Overall, it seems there is some consideration for user experience within the website. 
 
 ## 1) Visibility of System Status
@@ -115,7 +116,7 @@ The website appears to be easy to navigate. They have a relatively minimalist de
 
 ## 2) Match between System and the Real World
 
-- 
+-   
 ## 3) User control and Freedom
 ## 4) Consistency and Standards
 ## 5) Error Prevention
