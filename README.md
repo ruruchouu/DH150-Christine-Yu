@@ -24,9 +24,11 @@ Information about the Website:
   
 <img src="./Economics department homepage.png" width=”50%”>
 
-Initial Evaluation:
+Initial Evaluation and Motivation:
 
-My first impression of the website is it can be quite cluttered graphically because there are large sections of information to process on the homepage. Navigation to the required information can be difficult if you are using the navigation menu offered because there are a large number of hypertext links to pages. There is a search bar; however, the search bar is particularly small, which can cause readers with sight issues to have trouble finding the information. The lettering for the menu navigation in the sidebar are all listed in capital letters and blue text, making it difficult to read and pinpoint clear distinctions between website pages. It creates a mildly unpleasant experience for the users. It appears that the website was designed without consideration of user experience and simplicity. 
+- My first impression of the website is it can be quite cluttered graphically because there are large sections of information to process on the homepage. Navigation to the required information can be difficult if you are using the navigation menu offered because there are a large number of hypertext links to pages. There is a search bar; however, the search bar is particularly small, which can cause readers with sight issues to have trouble finding the information. The lettering for the menu navigation in the sidebar are all listed in capital letters and blue text, making it difficult to read and pinpoint clear distinctions between website pages. It creates a mildly unpleasant experience for the users. It appears that the website was designed without consideration of user experience and simplicity. 
+
+- I chose the UCLA Economics website because I am a frequent user of its many functions and there have been multiple times I have been inconvenienced by its navigation system. I find that other users might be finding issues with its usability as well and would like to dive deeper into labeling its flaws to propose potential solutions. I also find that there are elements the website does well in terms of its textual explanations. 
 
 ## 1) Visibility of System Status
 
@@ -100,9 +102,11 @@ The UCLA Summer sessions website serves as the main portal for all students seek
 
 <img src="./Home page.png" width=”50%”>
 
-Initial Evaluation: 
+Initial Evaluation and Motivation: 
 
-The website appears to be easy to navigate. They have a relatively minimalist design with only 4 dropdown menus. The homepage also has a simple design with 6 navigation links. There is a footer bar with "Contact Us", "FAQ", and various social media links which follows standard conventions. The website appears to be well organized and not overly confusing or complicated. Within some of the pages, there is an inconsistent sense of formatting and spacing, in which some pages choose a 2 column approach to format their information. Overall, it seems there is some consideration for user experience within the website. 
+- The website appears to be easy to navigate. They have a relatively minimalist design with only 4 dropdown menus. The homepage also has a simple design with 6 navigation links. There is a footer bar with "Contact Us", "FAQ", and various social media links which follows standard conventions. The website appears to be well organized and not overly confusing or complicated. Within some of the pages, there is an inconsistent sense of formatting and spacing, in which some pages choose a 2 column approach to format their information. Overall, it seems there is some consideration for user experience within the website. 
+
+- I chose the UCLA Summer Sessions website because I remember being minorly inconvenienced as an incoming freshman to navigate the registration process and wanted to explore aspects of user experience through this platform. I find that UCLA Summer Sessions have become an increasingly important part of a UCLA student's experience because the majority of students have at least had to take summer courses once in their 4 years at UCLA in order to access courses they were unable to during the lottery system. By improving user experience to the UCLA Summer Sessions website, current and future UCLA students are able to have an easier time with the website. 
 
 ## 1) Visibility of System Status
 
