@@ -76,3 +76,4 @@ My first impression of the website is it can be quite cluttered graphically beca
 
 - The website contains a large amount of text, making the design seem more complicated and overwhelming to users. In addition there are numerous navigation links and sublinks under the dropdown menus, which could be simplified through combination or elimination of pages. 
 
+<img src="./Dropdown menu.png" width=”50%”>
