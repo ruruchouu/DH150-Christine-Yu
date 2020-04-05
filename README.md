@@ -3,7 +3,7 @@
 
 Motivation 
 
-I chose to focus on analyzing websites that are frequently used by economics majors of University of California, Los Angeles, in particular the UCLA official website for economics and the UCLA Summer sessions website. As a frequent user of both these websites, I noticed flaws that can deter users from having an easy to navigate experience. An unpleasant experience can provide difficulties for future economics students and introduce frustrations. Therefore, I aim to label and analyze these flaws using the Jakob Nielsen's 10 Usability Heuristics for User Interface Design to identify usability problems. I hope by doing so I am able to propose potential ways to improve the user experience and interaction with these two websites. 
+I chose to focus on analyzing websites that are frequently used by economics majors of University of California, Los Angeles, in particular the UCLA official website for economics and the UCLA Summer sessions website. As a frequent user of both these websites, I noticed flaws that can deter users from having an easy to navigate experience. An unpleasant experience can provide difficulties for future economics students and introduce frustrations. Therefore, I aim to label and analyze these flaws using the Jakob Nielsen's 10 Usability Heuristics for User Interface Design. I hope by doing so I am able to propose potential ways to improve the user experience and interaction with these two websites. 
 
 ## Heuristic Severity Evaluation Scale
 
@@ -95,9 +95,13 @@ https://summer.ucla.edu/
 
 Information about the Website:
 
-The UCLA Summer sessions website serves as the main portal for all students seeking to take a summer course at UCLA. Its users includes US high school students, international high school students, and continuing undergraduate students. The website provides information on fees, processing procedures, and content related to summer academic coursework. The Summer Sessions website contains 4 main dropdown menus- "I am a/an...", "Programs", "Fees", and "Register". 
+The UCLA Summer sessions website serves as the main portal for all students seeking to take a summer course at UCLA. Its users includes US high school students, international high school students, and continuing undergraduate students. The website provides information on fees, processing procedures, and content related to summer academic coursework. The Summer Sessions website contains 4 main dropdown menus- "I am a/an...", "Programs", "Fees", and "Register". This website is managed by UCLA Summer sessions department. 
 
 ## 1) Visibility of System Status
+
+-When viewing the dropdown menu, the user is able to hover over the page navigation link and it indicates that the user is about to click into the correct page by showing a lighter colored text. This change in color makes it clear to the user which part of the website they are navigating to.
+
+
 ## 2) Match between System and the Real World
 ## 3) User control and Freedom
 ## 4) Consistency and Standards
