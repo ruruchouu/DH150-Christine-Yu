@@ -13,8 +13,6 @@ I chose to focus on analyzing websites that are frequently used by economics maj
 
 3- A major usability problem that is important to fix and high priority
 
-4- A usability catastrophe that must be fixed 
-
 ## First Website- UCLA Economics Website
 https://economics.ucla.edu/
 
