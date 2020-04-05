@@ -62,8 +62,17 @@ My first impression of the website is it can be quite cluttered graphically beca
 
 ## 6) Recognition rather than recall
 
-- The search bar does include a search history; however it includes search terms from searches outside of the current website which may confuse the user. 
+- The search bar does include a search history; however it includes search terms from searches outside of the current website which may confuse the user. While this does allow the user to recall and resume previous search activities, it would be preferable to have the search history only include terms searched within the Economics website. I would propose restricting search history to recent searches within the Economics website. Severity Rating (1)
 
 <img src="./Search bar.png" width=”50%”>
 
+## 7) Flexibility and efficiency of use
+
+- The search button is small and does not allow a user to filter its searches to a more specific page or section of the website. I would propose creating a more detailed filter system so that search results do not end up with an extremely large amount of information to filter through. I suggest making the search button larger. Severity Rating (3)
+
+- The website does have a "back to the top" option to make scrolling up a more efficient task. This will help a more experienced user. 
+
+## 8 ) Aesthetic and Minimalist Design
+
+- The website contains a large amount of text, making the design seem more complicated and overwhelming to users. In addition there are numerous navigation links and sublinks under the dropdown menus, which could be simplified through combination or elimination of pages. 
 
