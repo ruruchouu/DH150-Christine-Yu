@@ -122,20 +122,32 @@ Initial Evaluation and Motivation:
 
 -   In the website, the links are frequently denoted with acronyms such as SIS and SCIP, which can be confusing to new users. New users will not likely be familiar with these acronyms without context. I suggest providing a brief introduction on the home page to provide context for these acronyms so that users will know what differentiates each program. Severity Rating (2)
 
-- Additionally when navigating the dropdown menu, the difference between the label of a U.S. Student and U.S. High School student is not immediately clear to the user. I recommend labeling U.S. Student as U.S. College student or U.S. Non-High School student to differentiate the terms. Severity Rating (1)
-
 ## 3) User control and Freedom
 
--
+-The user is able to navigate out of the registration page for UCLA Summer Institutes by using a "No, I do not wish to continue" button. This is labeled at the bottom of the page. This does provide users the ability to navigate out of the wrong page; however, by labeling this button at the bottom of the page, this makes the user go through an extended text dialogue. I propose placing this button at the beginning of the page, ensuring that there is an emergency exit in the case of mistaken navigation. Severity Rating (1)
+<img src="./Rejection.png" width=”50%”>
+
+- Other navigation pages for registration lack exit buttons. This can provide trouble for novice users when trying to move from one page to another. I propose introducing exit buttons at the top of these navigation pages to exit out. Severity Rating (2)
 
 ## 4) Consistency and Standards
-- 
+
+- When navigating the dropdown menu, the difference between the label of a U.S. Student and U.S. High School student is not immediately clear to the user. Users may perceive that clicking on either link would yield the same result when in fact they are separate definitions. I recommend labeling U.S. Student as U.S. College student or U.S. Non-High School student to differentiate the terms. Severity Rating (2)
+
+- Overall, the UCLA Summer Sessions website does a good job of following standard conventions. The footer bar contains "Contact Us", "FAQ", and social media links in the conventional locations. The search bar is located on the right side and the main logo is located on the left. 
+
+
 ## 5) Error Prevention
 
 - When the user fails to type in the search bar, this error message appears to let the user know that they failed to enter any keywords. This demonstrates that the website paid attention to providing error prevention methods to their users. 
 
 <img src="./Error page.png" width=”50%”>
+
+- The search bar also provides alternative suggestions for a search result. This can also prevent errors when a user types wrong. 
+
+<img src="./suggestions.png" width=”50%”>
+
 ## 6) Recognition rather than recall
+- 
 ## 7) Flexibility and efficiency of use
 ## 8 ) Aesthetic and Minimalist Design
 ## 9) Help users recognize, diagnose, and recover from errors
