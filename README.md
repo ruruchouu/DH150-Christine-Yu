@@ -169,4 +169,9 @@ Initial Evaluation and Motivation:
 
 
 ## 10) Help and Documentation
-- 
+- There is a FAQ page for users that is clearly linked in the footer bar. The FAQ page is formatted in an easy to use way by providing drop down options without cluttering the page with text. I would like to see a link to the FAQ in the header bar. Severity Rating (1)
+<img src="./FAQ.png" width=”50%”>
+
+- The "Contact Us" page also contains the option of directly asking a question through the website, which is easier than emailing. This enhances the user experience by enabling the user to directly connect with a representative and the website provides a general time for the response. 
+
+<img src="./Contact Us.png" width=”50%”>
