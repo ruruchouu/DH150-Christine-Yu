@@ -126,7 +126,8 @@ Initial Evaluation and Motivation:
 
 ## 3) User control and Freedom
 
-- 
+-
+
 ## 4) Consistency and Standards
 - 
 ## 5) Error Prevention
