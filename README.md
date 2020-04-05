@@ -21,5 +21,5 @@ My first impression of the website is it can be quite cluttered graphically beca
 ## 1) Visibility of System Status
 
 The website does not always make it clear what page of the website we are on. For example, when you click into a webpage, the menu sidebar does not change so it is unclear which page of navigation we are currently on. Typically, it would be expected that the web page would be bolded, capitalized, or a different color to ensure the user knows which section they are at. 
-
+<img src="./Website sidebar.png" width=”50%”>
 
