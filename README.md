@@ -95,7 +95,7 @@ https://summer.ucla.edu/
 
 Information about the Website:
 
-The UCLA Summer sessions website serves as the main portal for all students seeking to take a summer course at UCLA. Its users includes US high school students, international high school students, and continuing undergraduate students. The website provides information on fees, processing procedures, and content related to summer academic coursework. The Summer Sessions website contains 
+The UCLA Summer sessions website serves as the main portal for all students seeking to take a summer course at UCLA. Its users includes US high school students, international high school students, and continuing undergraduate students. The website provides information on fees, processing procedures, and content related to summer academic coursework. The Summer Sessions website contains 4 main dropdown menus- "I am a/an...", "Programs", "Fees", and "Register". 
 
 ## 1) Visibility of System Status
 ## 2) Match between System and the Real World
