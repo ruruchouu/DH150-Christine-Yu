@@ -101,6 +101,7 @@ The UCLA Summer sessions website serves as the main portal for all students seek
 
 -When viewing the dropdown menu, the user is able to hover over the page navigation link and it indicates that the user is about to click into the correct page by showing a lighter colored text. This change in color makes it clear to the user which part of the website they are navigating to.
 
+<img src="./Visibility of System.png" width=”50%”>
 
 ## 2) Match between System and the Real World
 ## 3) User control and Freedom
