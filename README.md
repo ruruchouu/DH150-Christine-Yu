@@ -120,6 +120,10 @@ The website appears to be easy to navigate. They have a relatively minimalist de
 ## 3) User control and Freedom
 ## 4) Consistency and Standards
 ## 5) Error Prevention
+
+- When the user fails to type in the search bar, this error message appears to let the user know that they failed to enter any keywords. This demonstrates that the website paid attention to providing error prevention methods to their users. 
+
+<img src="./Error page.png" width=”50%”>
 ## 6) Recognition rather than recall
 ## 7) Flexibility and efficiency of use
 ## 8 ) Aesthetic and Minimalist Design
