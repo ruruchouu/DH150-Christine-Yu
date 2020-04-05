@@ -64,6 +64,6 @@ My first impression of the website is it can be quite cluttered graphically beca
 
 - The search bar does include a search history; however it includes search terms from searches outside of the current website which may confuse the user. 
 
-
+<img src="./Search bar.png" width=”50%”>
 
 
