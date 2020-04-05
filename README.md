@@ -7,11 +7,11 @@ I chose to focus on analyzing websites that are frequently used by economics maj
 
 ## Heuristic Severity Evaluation Scale
 
-1- A Cosmetic problem, only fixed if time allows
+1- A cosmetic problem, only fixed if time allows
 
-2- A Minor usability problem with low fix priority
+2- A minor usability problem with low fix priority
 
-3- A Major usability problem that is important to fix and high priority
+3- A major usability problem that is important to fix and high priority
 
 4- A usability catastrophe that must be fixed 
 
@@ -46,13 +46,18 @@ My first impression of the website is it can be quite cluttered graphically beca
 
 ## 3) User control and Freedom
 
-- When going through the Contact Us page, the user may accidentally click on one of the email addresses. On the MacOS system, this prompts the system to immediately open the "email" appplication. There is no undo function once this occurs so it creates trouble for the user to undo this command manually. I would propose having the option to cancel before the email application is launched. Severity Rating (2)
+- When going through the "Contact Us" page, the user may accidentally click on one of the email addresses. On the MacOS system, this prompts the system to immediately open the "email" appplication. There is no undo function once this occurs so it creates trouble for the user to undo this command manually. I would propose having the option to cancel before the email application is launched. Severity Rating (2)
 
 - When clicking on the "Master" menu link on the top of the page, it redirects the user to a new website that is separate from the primary Economics page. In order to undo this action, the user will have to manually go back through their browser or retype the website because there is no action that appears to indicate that the user is being redirected to a new page. I propose providing a pop-up box to make it obvious that the master's page is a new website and asking the user if they would like to navigate to a new website. Severity Rating (2)
 
 ## 4) Consistency and Standards
 
-- 
+- Typically a website would list the contact page, about page, and privacy policy in the footer bar of each page as part of platform conventions. The UCLA Economics page lists the "Contact Us" page in the footer bar; however it lacks the other two pages. It also includes other links that directs users to campus resources, which are helpful but unnecessary. I would propose adding links to the about page and privacy policy as well as reducing the irrelevant and unnecessary links in the footer bar. Severity Rating (2)
+
+- Overall, the website does follow conventions such as having the search bar on the right hand side and the main logo on the left hand side. The arrow navigation through the home page images are also consistent with website conventions.
+
+
+
 
 
 
