@@ -74,6 +74,36 @@ My first impression of the website is it can be quite cluttered graphically beca
 
 ## 8 ) Aesthetic and Minimalist Design
 
-- The website contains a large amount of text, making the design seem more complicated and overwhelming to users. In addition there are numerous navigation links and sublinks under the dropdown menus, which could be simplified through combination or elimination of pages. 
+- The website contains a large amount of text, making the design seem more complicated and overwhelming to users. In addition there are numerous navigation links and sublinks under the dropdown menus, which could be simplified through combination or elimination of pages. I would suggest eliminating unnecessary graphics, reducing the number of possible navigation options, combining pages of similar information if possible, and reducing irrelevant text. I would propose minimizing overuse of space.  Severity Rating (3)
 
 <img src="./Dropdown menu.png" width=”50%”>
+
+## 9) Help users recognize, diagnose, and recover from errors
+
+- If the user makes a typo in the search result, there is no indication of an error. There is also no option to recover from a typing error. While the user is able to manually fix their errors, I would suggest a system to diagnose search errors by showing suggestions in the search bar and providing other common search options. Severity Rating (2)
+
+- If a user mistakenly navigates to the Admin Login, it is unclear to the user that they have navigated to the wrong page. It provides options for logging in with a username and password. While there is a back button to UCLA Economics at the bottom, the user may not realize they are at the wrong page. I propose removing the Admin Login link in the footer bar because users should not be able to access the internal private settings of the website. Severity Rating (3)
+
+## 10) Help and Documentation
+
+- While there is a FAQ section, a novice user will likely experience difficult navigating to the FAQ page because there is a large amount of dropdown menu options to look through. I would propose making the FAQ section a permanent fixture as a menu option in the top bar. Severity Rating (2)
+
+- There is no feedback option within the pages to reports errors in the website. I propose providing a simple feedback form link in the footer bar so users can write their comments and issues. Severity Rating (2)
+
+## Second Website- UCLA Summer Sessions
+https://summer.ucla.edu/
+
+Information about the Website:
+
+The UCLA Summer sessions website serves as the main portal for all students seeking to take a summer course at UCLA. Its users includes US high school students, international high school students, and continuing undergraduate students. The website provides information on fees, processing procedures, and content related to summer academic coursework. The Summer Sessions website contains 
+
+## 1) Visibility of System Status
+## 2) Match between System and the Real World
+## 3) User control and Freedom
+## 4) Consistency and Standards
+## 5) Error Prevention
+## 6) Recognition rather than recall
+## 7) Flexibility and efficiency of use
+## 8 ) Aesthetic and Minimalist Design
+## 9) Help users recognize, diagnose, and recover from errors
+## 10) Help and Documentation
