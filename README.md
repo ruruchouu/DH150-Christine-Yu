@@ -56,7 +56,13 @@ My first impression of the website is it can be quite cluttered graphically beca
 
 - Overall, the website does follow conventions such as having the search bar on the right hand side and the main logo on the left hand side. The arrow navigation through the home page images are also consistent with website conventions.
 
+## 5) Error Prevention
 
+- In the search bar, if I make a typo in the search, there is no suggestion in the search bar to change it to a different word. It does not help to detect errors in the search. This can result in improper results. I propose including search suggestions for errors and a detection system for typo errors. Severity Rating (2)
+
+## 6) Recognition rather than recall
+
+- The search bar does include a search history; however it includes search terms from searches outside of the current website which may confuse the user. 
 
 
 
