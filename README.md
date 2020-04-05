@@ -27,3 +27,8 @@ The website does not always make it clear which page of the website we are on. F
 When the user is navigated to the giving page, it is unclear what the blue button on the screen is meant to do. A user may not know to click on the blue button to navigate to the donation page. When a user does click on the button, it changes to black and yellow and indicates the word "donate" only for a few seconds. I propose labeling clearly that the button is meant to redirect a user to the donation page by labeling "donate" on the button prior to clicking. Severity Rating (2)
 
 <img src="./Giving.png" width=”50%”>
+
+## 2) Match between System and the Real World
+
+On the home page, it does not provide a clear introduction to the website so it makes first time users uncertain as to where to navigate to find information that they require. The home page appears to primarily be made of news from faculty, research spotlights, and events. Usually when users face a website for the first time, they will read an introduction on the home page so that it is clear what the organization provides and where they should go to find more information. The UCLA Economics home page fails to address those questions and leaves novice users lost when they try to navigate the website. The user may even assume that they were directed to the faculty page rather than the overall economics department website. The page does not follow real world conventions. Severity Rating (3)
+
