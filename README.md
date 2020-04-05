@@ -125,7 +125,7 @@ Initial Evaluation and Motivation:
 ## 3) User control and Freedom
 
 -The user is able to navigate out of the registration page for UCLA Summer Institutes by using a "No, I do not wish to continue" button. This is labeled at the bottom of the page. This does provide users the ability to navigate out of the wrong page; however, by labeling this button at the bottom of the page, this makes the user go through an extended text dialogue. I propose placing this button at the beginning of the page, ensuring that there is an emergency exit in the case of mistaken navigation. Severity Rating (1)
-<img src="./Rejection.png" width=”50%”>
+<img src="./Rejection .png" width=”50%”>
 
 - Other navigation pages for registration lack exit buttons. This can provide trouble for novice users when trying to move from one page to another. I propose introducing exit buttons at the top of these navigation pages to exit out. Severity Rating (2)
 
