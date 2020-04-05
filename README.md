@@ -147,8 +147,15 @@ Initial Evaluation and Motivation:
 <img src="./suggestions.png" width=”50%”>
 
 ## 6) Recognition rather than recall
-- 
+- The search bar of the UCLA Summer Sessions website provides a recent search history list, reducing the need for the user to recall their previous searches. This makes it easier for a user to resume old searches. This promotes recognition rather than recall. 
+
 ## 7) Flexibility and efficiency of use
+- The UCLA Summer sessions website provide multiple ways to access the same information. One way is to utilize the navigation menu on the top bar. Another way is to utilize this getting started dropdown menu. Both provides flexibility for the user in the case that a user may miss the menu bar at the top. 
+<img src="./navigation options.png" width=”50%”>
+
 ## 8 ) Aesthetic and Minimalist Design
+- 
 ## 9) Help users recognize, diagnose, and recover from errors
+- 
 ## 10) Help and Documentation
+- 
