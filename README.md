@@ -99,9 +99,14 @@ The UCLA Summer sessions website serves as the main portal for all students seek
 
 ## 1) Visibility of System Status
 
--When viewing the dropdown menu, the user is able to hover over the page navigation link and it indicates that the user is about to click into the correct page by showing a lighter colored text. This change in color makes it clear to the user which part of the website they are navigating to.
+-When viewing the dropdown menu, the user is able to hover over the page navigation link and it indicates that the user is about to click into the correct page by showing a lighter colored text. This change in color makes it clear to the user which part of the website they are navigating to. In the image below, you can see that "Incoming UCLA Student" is a lighter color than the surrounding text. It can be somewhat hard to discern this small difference in the background. I would recommend making the color difference clearer by making it even lighter or bolding the words to make it more pronounced. Severity Rating (1) 
 
 <img src="./Visibilty of System.png" width=”50%”>
+
+-The pages of Incoming and Continuing UCLA Student under the dropdown menu for "I am a/an..." both start with the same initial appearance. They include the same video and relatively similar layout which makes it difficult for a new user to discern whether they have navigated to the correct page. I recommend labeling a clear bold title at the top of the page to make sure the user is certain they have navigated to the correct page. 
+
+
+<img src="./Page overview.png" width=”50%”>
 
 ## 2) Match between System and the Real World
 ## 3) User control and Freedom
