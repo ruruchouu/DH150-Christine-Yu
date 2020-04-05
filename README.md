@@ -7,6 +7,7 @@ I chose to focus on analyzing websites that are frequently used by economics maj
 
 ## First Website- UCLA Economics Website
 https://economics.ucla.edu/
+
 Information about the Website:
   The UCLA Economics website serves as the primary source of knowledge about classes, research, and workshops for economics majors at all levels starting from the undergraduate to the Ph.D. The website explains that the Economics Department at UCLA has two particular objectives- conduct cutting edge research and train the next generation of economic leaders. In this website, it lists its central navigation under 7 menus- "About", "Faculty", "Undergraduate", "Master", "Ph.D", "Alumni", and "Calendar". Users utilize this website to receive updated information from the economics department regarding new opportunities or classes, read research publications, and connect with various resources to further develop career opportunities. The website is managed by the UCLA Department of Economics. 
   
