@@ -30,5 +30,11 @@ My first impression of the website is it can be quite cluttered graphically beca
 
 ## 2) Match between System and the Real World
 
-- On the home page, it does not provide a clear introduction to the website so it makes first time users uncertain as to where to navigate to find information that they require. The home page appears to primarily be made of news from faculty, research spotlights, and events. Usually when users face a website for the first time, they will read an introduction on the home page so that it is clear what the organization provides and where they should go to find more information. The UCLA Economics home page fails to address those questions and leaves novice users lost when they try to navigate the website. The user may even assume that they were directed to the faculty page rather than the overall economics department website. The page does not follow real world conventions. Severity Rating (3)
+- On the home page, it does not provide a clear introduction to the website so it makes first time users uncertain as to where to navigate to find information that they require. The home page appears to primarily be made of news from faculty, research spotlights, and events. Usually when users face a website for the first time, they will read an introduction on the home page so that it is clear what the organization provides and where they should go to find more information. The UCLA Economics home page fails to address those questions and leaves novice users lost when they try to navigate the website. The user may even assume that they were directed to the faculty page rather than the overall economics department website. The page does not follow real world conventions. I propose listing a brief introduction on the home page and making the search bar larger for users. Severity Rating (3)
+
+- I find that the website does do well in utilizing familiar language. For example, under the "Why Study Economics?" page, the website utilizes familiar words and explains the definition of incentives in an easy to understand way by explaining how it studies the way people make choices. By following real world conventions in this way, the website makes it easier for the user and more enjoyable. 
+
+## 3) User control and Freedom
+
+- 
 
