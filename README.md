@@ -25,3 +25,5 @@ The website does not always make it clear which page of the website we are on. F
 <img src="./Website sidebar.png" width=”50%”>
 
 When the user is navigated to the giving page, it is unclear what the blue button on the screen is meant to do. 
+
+<img src="./Giving.png" width=”50%”>
