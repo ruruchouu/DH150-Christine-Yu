@@ -153,9 +153,20 @@ Initial Evaluation and Motivation:
 - The UCLA Summer sessions website provide multiple ways to access the same information. One way is to utilize the navigation menu on the top bar. Another way is to utilize this getting started dropdown menu. Both provides flexibility for the user in the case that a user may miss the menu bar at the top. 
 <img src="./navigation options.png" width=”50%”>
 
+- Additionally, there is the option of using the quick links at the footer bar to swiftly navigate to new sections of the website. This provides options for an experienced user to navigate the website more efficiently. 
+
 ## 8 ) Aesthetic and Minimalist Design
-- 
+- The website contains a minimalist design, which is exemplified by its limited menu options and links on the home page. There is an abundance of imagery. I would recommend minimizing unnecessary or overwhelming amounts of images because the home page can sometimes be overwhelming in terms of intense vibrant color. Severity Rating (1)
+
+- The registration pages differ from the main informative pages in that it contains extremely large amounts of text. I would recommend minimizing unnecessary text or utilizing different tactics to differentiate important text. Severity Rating (2)
+
 ## 9) Help users recognize, diagnose, and recover from errors
-- 
+- The search bar lists options to recover from errors as shown previously. The website offers suggestions such as checking the spelling or using more advanced techniques to narrow the options. 
+<img src="./suggestions.png" width=”50%”>
+
+- Users can recognize errors before clicking into registration links because the website italicizes the requirements to draw the users' attention. While the italizication does reduce the likelihood a user would click into the wrong link, bolding the lettering or offering a pop-up message can help distinguish the differences more. Severity Rating (1) 
+<img src="./Registration links.png" width=”50%”>
+
+
 ## 10) Help and Documentation
 - 
