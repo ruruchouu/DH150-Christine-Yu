@@ -20,7 +20,9 @@ Given these problems, I will conduct a usability test to evaluate how the websit
 
 For the usability test,  I will conduct it within a quiet office room of my house. I will be using my own Macbook Air laptop as the recording device. I will be utilizing ActivePresenter. 
 
-The user and I will sit adjacent to each other throughout this process. I will ask for the user's informed consent before progressing through the survey. The user will provide detailed feedback about their thought process and evaluate the extent to which task completion was successful. The user will also assess other elements such as how quickly tasks are completed, the degree of satisfaction and comfort the user feels toward the website, and potential suggestions for improvement. 
+The user and I will sit adjacent to each other throughout this process. I will ask for the user's informed consent before progressing through the survey. The user will provide detailed feedback about their thought process and evaluate the extent to which task completion was successful. The user will also assess other elements such as how quickly tasks are completed, the degree of satisfaction and comfort the user feels toward the website, and potential suggestions for improvement. The user will complete a section on demographic data which will be kept confidential. 
+
+This usability test is intended as a pilot test.
 
 ## Link to the UT Survey
 
