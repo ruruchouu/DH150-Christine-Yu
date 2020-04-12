@@ -11,8 +11,8 @@ After conducting a heuristic analysis on this website, several usability problem
 - First, the website did a poor job with displaying the visibility of the system through the navigation side menu. 
 - Second, the website struggled with error prevention by not providing suggestions for the search results. The search results also often appeared to be unrelated to the search term itself. To the user, the search function would appear unreliable. 
 - Third, the UCLA Economics site fails to utilize a minimalistic design. 
-- Fourth, the website does not match the system and the real world, causing the user to question what the purpose the site serves. 
-
+- Fourth, the website's home page does not match the system and the real world, causing the user to question what the purpose the site serves. The home page focuses on research and publications from faculty. 
+- Fifth, the search function lacks flexibility and efficiency of use. The search function does not have the ability to filter searches to a specific page. 
 
 
 
