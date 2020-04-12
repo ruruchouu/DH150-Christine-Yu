@@ -30,6 +30,14 @@ https://forms.gle/C6Zbpf78xXhatZBA8
 
 ## Link to UT Video
 
+https://drive.google.com/file/d/1-Fhb50BD-FIdQXR_oR83qawjwp7bosFr/view?usp=sharing
+
 ## Reflection
 
+When conducting the usability test, I would frequently have to fight the urge to assist the user through the task as a more experienced user of the website. I was surprised by the degree of difficulty the novice user encountered when going through the first task. Although I expected there to be a challenge with the search results, I did not expect that minimizing the screen would cause the search bar to disappear on the website. This unexpected outcome caused me to intervene on the test and guide the user in the expected manner in full screen. For future user testing, I would ensure that I would avoid issues like that by testing out the screen beforehand. I also realized when reading the script out loud I had made several typos from copying and I would make sure to go through every detail to avoid these small mistakes in future user testing. 
 
+I learned that the user felt that his prior expertise in technical information helped him conduct tasks more quickly relative to an average user. For an average user, this would presumably mean that the website is inefficient since results from tasks take a longer time than expected. The user recommended moving the "Contact Us" page to the top of the menu and incorporating admissions information into a single page. In my heuristics analysis, I found that the website was cluttered and the user agrees with that sentiment. 
+
+The user expressed frustration at the first task and was unable to complete all the steps. He felt that the website had links that were often hidden from the user. He also stated he found the website cumbersome and rather complex. The user lacked confidence with the website, which implies he was not fairly comfortable with its use. He listed "intimidating" as one of the five words he associated with the UCLA Economics website. His user testing feedback indicates that this website needs a large degree of improvement. 
+
+Overall, I learned about how a new user would view this website and was enlightened about how much of the website's poor design I gradually overlooked as I used it more frequently. I realized that I often had questions about his experience that were not part of the script and I would incorporate them into user testing as long as it does not distract from the main task. As a moderator, I would need to have flexibility to deal with unexpected situations such as the mishap with the website search bar disappearing. I need to be more careful with script preparation and utilize more checks for user testing in the future. I learned that my opinions may slightly differ from the user's opinions;however, it is the user's perspective that is important for determining what the website should improve. 
