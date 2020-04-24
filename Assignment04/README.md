@@ -12,7 +12,7 @@ I seek users that would need to search for academic coursework topics. These use
 
 ## Research Plan and Process
 
-I will conduct an interview with the user. The user will be seated at their home at their desk. The user can reference their own digital tool such as a phone or computer as well as any paperwork they would use in their academic search process. The user will be screen recording and I will be recording their voice for transcription purposes. I will also be observing their actions through the phone call. 
+I will conduct an interview with the user. The user will be seated at their home at their desk. The user can reference their own digital tool such as a phone or computer as well as any paperwork they would use in their academic search process. I will be in a Zoom call with the user and I will be screen recording. I will also be recording their voice for transcription purposes. 
 
 I will be going through a script and taking notes on the digital document while passively observing the user. I will interject intermittently with questions about their task and thought process. For each search, the user will explain how they decide on keywords and the degree of satisfaction they achieve. 
 
@@ -26,10 +26,14 @@ I will be taking notes on the same script document.
 
 ## Link to Screen Recording
 
+https://drive.google.com/open?id=1mEkSq59Bv2HEQDOD41pXwYwTdYvm93IF
+
 ## Link to Transcript
 https://docs.google.com/document/d/1YOHE51thr8KP1YAo7arV_rbbwT2nzPxFImV2uJOOC8M/edit?usp=sharing
 
 ## Reflection 
 
+Overall, the process went smoothly because I was able to ask most of the questions. I was surprised by the user's choice of website, which did not feature a search bar, so some of the questions did not fully apply. I had to revise the question on the spot or skip over questions that did not apply. There are some slight audio problems due to internet connection. This presents some difficulties during the transcription process. While I am able to perform this contextual research process online, there are some disadvantages. I am unable to fully observe the user's posture and movements during the Zoom call so I could not determine if there was some slight discomfort or changes in behavior. There was some confusion due to the phrasing of questions. I will try to read the questions out loud before I present in front of a user the next time I try to perform user research. This would relieve some of the issues the user had with understanding the context of my question. The background questions went pretty smoothly. 
 
+The primary insights I found through this process is that search for the users is primarily performed through computer and that means the website experience should be optimized for the computer. I also learned that website design can be offputting for navigating searches and a search experience should be intuitive. Academic information that is commonly searched for are course descriptions, materials and textbooks required, and professor's ratings. I realized that the UCLA Economics website lacks the ability to look for ratings. Users prefer to have commonly used websites bookmarked to save the information for later. Users also like to have a variety of results through partial search terms. I have learned that I require even more advanced preparation beforehand for typos, revision to avoid confusion, and flexiblity to deal with unexpected changes. I also learned that by observing the user, you are not letting your own preconceived notions about what works and what doesn't to influence the flow of the conversation. In the previous user testing, the guidance through the tasks often limited what users would do and say. 
 
