@@ -18,3 +18,9 @@ I will be going through a script and taking notes on a digital document while pa
 
 I will conclude the interview by thanking the user for their time and asking for any suggestions to improve the search process. I will continue taking notes to wrap up the observations I made during the interview. 
 
+## Interview Observation Guide
+
+https://docs.google.com/document/d/1h4Ie_S6LLCUi3MKDZZNq1q2_TMEs8xFmv1HLKH9H_yg/edit?usp=sharing
+
+I will be taking notes of observations inside this document. 
+
