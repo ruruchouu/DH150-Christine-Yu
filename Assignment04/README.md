@@ -14,7 +14,7 @@ I seek users that would need to search for academic coursework topics. These use
 
 I will conduct an interview with the user. The user will be seated at their home at their desk. The user can reference their own digital tool such as a phone or computer as well as any paperwork they would use in their academic search process. The user will be screen recording and I will be recording their voice for transcription purposes. I will also be observing their actions through the phone call. 
 
-I will be going through a script and taking notes by hand while passively observing the user. I will interject intermittently with questions about their task and thought process. For each search, the user will explain how they decide on keywords and the degree of satisfaction they achieve. 
+I will be going through a script and taking notes on the digital document while passively observing the user. I will interject intermittently with questions about their task and thought process. For each search, the user will explain how they decide on keywords and the degree of satisfaction they achieve. 
 
 I will conclude the interview by thanking the user for their time and asking for any suggestions to improve the search process. I will continue taking notes to wrap up the observations I made during the interview. 
 
@@ -22,12 +22,12 @@ I will conclude the interview by thanking the user for their time and asking for
 
 https://docs.google.com/document/d/1h4Ie_S6LLCUi3MKDZZNq1q2_TMEs8xFmv1HLKH9H_yg/edit?usp=sharing
 
-## Digitized Notes
+I will be taking notes on the same script document. 
 
 ## Link to Screen Recording
 
 ## Link to Transcript
-
+https://docs.google.com/document/d/1YOHE51thr8KP1YAo7arV_rbbwT2nzPxFImV2uJOOC8M/edit?usp=sharing
 
 ## Reflection 
 
