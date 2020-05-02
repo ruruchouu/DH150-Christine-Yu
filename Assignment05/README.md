@@ -18,6 +18,8 @@
 - Feature 1: Menu Section dedicated to International Student topics
 - Feature 2: Link to Open Research Portal with filters for keywords
 - Feature 3: Updated Search Bar with suggestions and improved search results 
+
+Link from Ideation: https://docs.google.com/presentation/d/1ylfGU_LeZqOJOsHMLpKpCvhTLZ1F5WLV6j89vkyiWMI/edit?usp=sharing
  
 ## Scenarios and Journey Maps
 ### Sara Li's Scenario 
