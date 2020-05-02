@@ -40,4 +40,19 @@ Achieving Goal
 
 - Bobby is a rising junior at UCLA and has fully committed to the Economics major. He aspires to become a professor in the future and wants to go to graduate school. He wants to do research in economics prior to graduation. Bobby has been looking through Handshake and asking all his friends for information about research opportunities. He does not have much luck and it is difficult trying to filter through the many results on Handshake. Bobby has emailed professors with cover letters and his resume, but he continues to receive rejections. After all these rejections, Bobby is wondering if he should continue on his path to graduate school. Bobby tries to stay focused and he looks through the UCLA Economics website to see if there are open research positions. 
 
-- 
+- Bobby opens his laptop and pulls up his spreadsheet for open research positions. He crosses out several that used to be open on his list. He ponders if there is an easier way to find these research opportunities. He types the UCLA Economics website into the search bar and opens the website. He quickly browses through the new research news and discovers that there is a link to an open portal for research in the sidebar. Bobby clicks the open portal link and it opens as a new tab. He sees that the open portal lists all research opportunities at UCLA and the search bar has multiple filters. He can filter by major so he can see all the internships that are relevant for Economics. The search can also filter by class and technical skills such as programming. Bobby clicks check marks by all the filters that are relevant to his class standing and skill level. He proceeds to search and finds the most up to date results for open research positions. Each of the positions have a brief summary with the professor's contacts listed next to it. It has the option to save the position to a list and send it to his email. He decides to discard his spreadsheet and begins making a new list on the open portal. 
+
+### Bobby's User Journey
+Initiation
+- Bobby has received multiple rejections from research positions that he really wanted. He wants to go to graduate school, but he needs to do research before he graduates. He wants to create a list of open research opportunities that he has the right qualifications for. 
+
+Frustration
+- Bobby is searching through Handshake; however, it does not have the type of filtering capabilities that he wants. He has to browse through the results one by one and he is not making much progress. He is emailing professors, but it seems that he is a bad match with what they are looking for. 
+
+Solution
+- Bobby opens up the UCLA Economics website and discovers that there is an open research portal link in the sidebar. He clicks on the portal and it has a search filter that is extremely thorough. There are options for filtering by major, class standing, skill level, and technical skills. 
+
+Achieving Goal 
+- Bobby is successfully able to search through the filter by checking which options apply to him the best. This created tailored results for his skillset and he regained confidence. Bobby decides to save the results to a list that he can email to himself later. He sighs in relief as he finds research opportunities that are relevant to his interests for the future. Bobby reads through the brief summaries of each position. 
+
+
