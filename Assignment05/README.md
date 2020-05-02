@@ -56,3 +56,16 @@ Achieving Goal
 - Bobby is successfully able to search through the filter by checking which options apply to him the best. This created tailored results for his skillset and he regained confidence. Bobby decides to save the results to a list that he can email to himself later. He sighs in relief as he finds research opportunities that are relevant to his interests for the future. Bobby reads through the brief summaries of each position. 
 
 
+### Jeff Baylor's Scenario
+- Jeff is a high school student and he is extremely interested in becoming a UCLA student. He is curious about the Economics major and would like to become an Economics major if he is admitted to UCLA. Jeff has been browsing various summer institute programs for UCLA, but wants to confirm some information before committing to summer courses. Jeff has been taking all kinds of AP courses in preparation for college. He knows that most colleges accept AP credits, but he wants to know the specific types of credit his AP courses could count for in terms of Economics prerequisites. He hopes that he could shorten the time he needs to spend doing pre-major courses so he can take out fewer loans in college. He tried asking his high school counselor and looking through forums; however, they do not have much helpful information. Jeff browses the UCLA Economics website to see if they have AP credits listed on the website. 
+
+- Jeff opens his dad's computer and searches through the Economics website. Jeff notices that there is a search bar on the upper right corner of the Economics website. He searches for "Economics Handbook" because he heard from his sister that there is a handbook that lists the requirements. The search results are outputted as an ordered list with the top result being the most relevant. Each results shows the title of the page, a brief summary of the page, and a small image. The first result states Economics requirements and offers an attachment for the UCLA Economics Handbook. Jeff clicks onto the page and he clicks the attachment. The attachment opens as a pdf in a new page. He looks through the table of contents. There is a page for incoming students and AP credits. He scrolls quickly to the page and learns more about how AP credits are counted in the Economics major. Jeff downloads the pdf so he can go through the information at his own pace. 
+
+### Jeff's User Journey
+
+Initiation
+- Jeff want to enroll at UCLA as an Economics student, but he wants to make sure his AP credits count toward the prerequisites. He is looking into 
+
+Frustration
+Solution
+Achieving Goal
