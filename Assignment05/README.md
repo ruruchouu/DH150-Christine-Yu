@@ -1,6 +1,11 @@
 # Personas and Scenarios - UCLA Economics Website
 ## DH150 Assignment05: Persona-Scenarios by Christine Yu
 
+
+### Purpose of UX Storytelling
+- UX storytelling is utilized to explain a user's progression from a challenge to its resolution. UX storytelling can help develop ideas for solving usability issues. The first stage (Introduction) provides context for the design problem. The second stage (Development) illustrates the issues that prevent users from achieving what they want. The third stage (Climax) demonstrates how the design idea can be implemented. The fourth stage (Resolution) shows the happy end result from successfully resolving the issue. These stages are performed from the user's perspective so you are able to focus on the user's motivations and needs when creating a solution. 
+
+## Personas and Empathy Maps
 <img src="./Persona 1.png" width=”50%”>
 <img src="./Empathy Map 1.png" width=”50%”>
 <img src="./Persona 2.png" width=”50%”>
@@ -59,13 +64,20 @@ Achieving Goal
 ### Jeff Baylor's Scenario
 - Jeff is a high school student and he is extremely interested in becoming a UCLA student. He is curious about the Economics major and would like to become an Economics major if he is admitted to UCLA. Jeff has been browsing various summer institute programs for UCLA, but wants to confirm some information before committing to summer courses. Jeff has been taking all kinds of AP courses in preparation for college. He knows that most colleges accept AP credits, but he wants to know the specific types of credit his AP courses could count for in terms of Economics prerequisites. He hopes that he could shorten the time he needs to spend doing pre-major courses so he can take out fewer loans in college. He tried asking his high school counselor and looking through forums; however, they do not have much helpful information. Jeff browses the UCLA Economics website to see if they have AP credits listed on the website. 
 
-- Jeff opens his dad's computer and searches through the Economics website. Jeff notices that there is a search bar on the upper right corner of the Economics website. He searches for "Economics Handbook" because he heard from his sister that there is a handbook that lists the requirements. The search results are outputted as an ordered list with the top result being the most relevant. Each results shows the title of the page, a brief summary of the page, and a small image. The first result states Economics requirements and offers an attachment for the UCLA Economics Handbook. Jeff clicks onto the page and he clicks the attachment. The attachment opens as a pdf in a new page. He looks through the table of contents. There is a page for incoming students and AP credits. He scrolls quickly to the page and learns more about how AP credits are counted in the Economics major. Jeff downloads the pdf so he can go through the information at his own pace. 
+- Jeff opens his dad's computer and searches through the Economics website. Jeff notices that there is a search bar on the upper right corner of the Economics website. He searches for "Economics Handbook" because he heard from his sister that there is a handbook that lists the requirements. The search results are outputted as an ordered list with the top result being the most relevant. Each results shows the title of the page, a brief summary of the page, and a small image. The first result states Economics requirements and offers an attachment for the UCLA Economics Handbook. Jeff clicks onto the page and he clicks the attachment. The attachment opens as a pdf in a new page. He looks through the table of contents. There is a page for incoming students and AP credits. He scrolls quickly to the page and learns more about how AP credits are counted in the Economics major. Jeff downloads the pdf, so he can go through the information at his own pace and review the information with his parents. 
 
 ### Jeff's User Journey
 
 Initiation
-- Jeff want to enroll at UCLA as an Economics student, but he wants to make sure his AP credits count toward the prerequisites. He is looking into 
+- Jeff want to enroll at UCLA as an Economics student, but he wants to make sure his AP credits count toward the prerequisites. He is looking into summer institute courses and needs to know more information before enrolling. 
 
 Frustration
+- Jeff has tried asking his counselor and looking through several forums but the information he found was outdated and unhelpful. He wants to know how much his AP credits count for in the Economics pre-major so he does not waste his time taking courses during summer institute. 
+
 Solution
+- Jeff is able to utilize the search bar on the UCLA Economics website and find the Economics handbook which helps to explain many of the requirements needed for the major. The Economics Handbook has a table of contents and has different sections for incoming students, continuing students, and further resources. 
+
 Achieving Goal
+- Jeff finds the section in the Economics Handbook that deals with incoming students and AP credits. He scrolls down the the page and reads through the information. He decides to compare this information to his college board AP results on a later day. He downloads the pdf of the handbook so he is able to refer to the handbook whenever he needs. He feels happy because he finally has found the information he wants. 
+
+
