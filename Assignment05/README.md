@@ -38,4 +38,6 @@ Achieving Goal
 
 ### Bobby Watson's Scenario
 
+- Bobby is a rising junior at UCLA and has fully committed to the Economics major. He aspires to become a professor in the future and wants to go to graduate school. He wants to do research in economics prior to graduation. Bobby has been looking through Handshake and asking all his friends for information about research opportunities. He does not have much luck and it is difficult trying to filter through the many results on Handshake. Bobby has emailed professors with cover letters and his resume, but he continues to receive rejections. After all these rejections, Bobby is wondering if he should continue on his path to graduate school. Bobby tries to stay focused and he looks through the UCLA Economics website to see if there are open research positions. 
 
+- 
