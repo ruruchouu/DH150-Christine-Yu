@@ -25,3 +25,5 @@ The low-fidelity prototype supports these tasks:
 6. Link workshop sign up to the calendar.
 
 ## Wireframes and Wireflow 
+
+<img src="./protype 1.png" width=”50%”>
