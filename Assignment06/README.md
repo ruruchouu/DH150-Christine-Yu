@@ -31,3 +31,6 @@ The low-fidelity prototype supports these tasks:
 
 **Version 1 with Wireflow**
 <img src="./prototype 2.png" width=”50%”>
+
+**Version 1 with User Feedback Notes**
+<img src="./prototype 3.jpg" width=”50%”>
