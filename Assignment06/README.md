@@ -11,4 +11,5 @@ For this project, I chose to focus on the functionality of essential features su
 
 Through examining the motivations of these user personas, I was able to decide on three features to prototype for these users. 
 1. Improved Search Results - provides a clear concise list of search results 
-2. 
+2. Workshop Registration Linked to Calendar - allows linkage of workshops with any calendar
+3. International Resources Section - offers information about international students resources
