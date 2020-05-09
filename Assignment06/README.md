@@ -26,4 +26,8 @@ The low-fidelity prototype supports these tasks:
 
 ## Wireframes and Wireflow 
 
+**Version 1**
 <img src="./prototype 1.png" width=”50%”>
+
+**Version 1 with Wireflow**
+<img src="./prototype 2.png" width=”50%”>
