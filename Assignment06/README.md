@@ -13,3 +13,11 @@ Through examining the motivations of these user personas, I was able to decide o
 1. **Improved Search Results** - provides a clear concise list of search results 
 2. **Linked to Calendar** - allows linkage of workshops with any calendar
 3. **International Resources Section** - offers information about international students resources
+
+### Tasks
+The low-fidelity prototype supports these tasks:
+
+1. Input search keywords. 
+2. Provide search suggestions.
+3. Generate a list of search results.
+4. 
