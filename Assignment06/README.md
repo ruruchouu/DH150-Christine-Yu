@@ -34,3 +34,23 @@ The low-fidelity prototype supports these tasks:
 
 **Version 1 with User Feedback Notes**
 <img src="./prototype 3.jpg" width=”50%”>
+
+## Notes from User
+
+1. The user stated that the calendar should utilize brief labels of what event is happening on each day. He stated that it should be similar to the labels that show on Google Calendar where the labels are small and it can be clicked to enlarge the information within. It was unclear since the calendar was blank which event would occur on what day. 
+
+2. The user asked if the International Resources page provides more information such as cell phone number and email of Dashew Center if you scroll down. That means that some of the essential information he expected to be on the page was missing and was not sure if it could be easily found. 
+
+3. The user decided to place check marks next to wireframes that made sense and were relatively intuitive to understand and placed x marks next to wireframes that require some degree of revision. 
+
+4. User would like to be able to select a range of dates on the calendar. The user also found it rather annoying and frustrating that users would have to click on each individual date to look at the workshops open on each day. 
+
+5. User did like that the search bar was included on every page since it would be much easier to search without having to redirect to the home page everytime he wanted to perform a search. 
+
+6. User stated that he would want to make sure that the home page has a label to indicate that workshops are available with an arrow to the calendar. This would improve clarity for users that workshops are found under the calendar. 
+
+7. The user found that he would like to have a list of the main events or highlights of the month on the home page. 
+
+8. He stated that he liked the options for editing and being able to return to the page to edit or review any details on the workshop sign up page. 
+
+
