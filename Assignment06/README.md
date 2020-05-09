@@ -20,6 +20,6 @@ The low-fidelity prototype supports these tasks:
 1. Input search keywords. 
 2. Provide search suggestions.
 3. Generate a list of search results.
-4. View workshops available. 
-5. Link workshop sign up to the calendar. 
-6. 
+4. View resources for international students. 
+5. View workshops available.  
+6. Link workshop sign up to the calendar.
