@@ -10,6 +10,6 @@ For this project, I chose to focus on the functionality of essential features su
 **User Personas** The first persona is Justin who is an incoming freshman at UCLA. Justin wants to search for the pre major requirements for Business Economics and compare it to the pre major requirements for Economics. He wants to utilize this information for his decisions to take certain classes during freshman year. The second persona is Betty who is a recently graduated alumni of UCLA. She wants to stay up to date on the newest ideas for her finance position. She is interested in participating in several workshops and wants to link it to her calendar. The third persona is Peter who is an international student from China. He is uncertain about the types of resources available to international students and wants to learn more on the Economics website. 
 
 Through examining the motivations of these user personas, I was able to decide on three features to prototype for these users. 
-1. Improved Search Results - provides a clear concise list of search results 
-2. Workshop Registration Linked to Calendar - allows linkage of workshops with any calendar
-3. International Resources Section - offers information about international students resources
+1. **Improved Search Results** - provides a clear concise list of search results 
+2. **Linked to Calendar** - allows linkage of workshops with any calendar
+3. **International Resources Section** - offers information about international students resources
