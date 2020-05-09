@@ -14,7 +14,7 @@ Through examining the motivations of these user personas, I was able to decide o
 2. **Workshop Linked to Calendar** - allows linkage of workshops with any calendar
 3. **International Resources Section** - offers information about international students resources
 
-### Tasks
+## Tasks
 The low-fidelity prototype supports these tasks:
 
 1. Input search keywords. 
