@@ -22,5 +22,5 @@
 
 ## Wireflow with the Screen Designs
  
-<img src= "./wireflow image.png" width ="50%">
+<img src="./wireflow image.png" width="50%">
 
