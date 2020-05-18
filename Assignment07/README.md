@@ -33,5 +33,6 @@
 
 <img src="./contrast fail.png" width ="50%">
 <img src="./contrast 1.png" width ="50%">
-- I also checked the contrast between black (#000000) and white (#FFFFFF). It passed all color contrast testing. 
 
+- I also checked the contrast between black (#000000) and white (#FFFFFF). It passed all color contrast testing. 
+<img src="./contrast.png" width ="50%">
