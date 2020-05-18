@@ -39,3 +39,10 @@
 
 - I wanted to check the level of contrast between the color of the search bar and the background shade of blue (#1D6FDE); however, Figma did not show me the color in hexadecimal format. The search bar color utilized a surface overlay which meant it was a darkened shade of the background color of 12%. Because of this, I am unsure if the level of contrast is satisfactory for the search bar. 
 
+- The colors of the buttons on the prototype are consistent with blue (#1D6FDE) and white (#FFFFFF) for contrast. This also provides visual consistency on the wireframes. 
+
+# Typography
+
+- I used Roboto in size 14 for the body texts on the pages. For page titles, I used Roboto of size 24. This consistency made it easier to read and readers could distinguish between text by size. Roboto has simple lettering that would help the reader process text easily. Roboto was similar in font to the original font of the UCLA Economics website. 
+
+
