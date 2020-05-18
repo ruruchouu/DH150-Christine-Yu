@@ -36,3 +36,6 @@
 
 - I also checked the contrast between black (#000000) and white (#FFFFFF). It passed all color contrast testing. 
 <img src="./contrast.png" width ="50%">
+
+- I wanted to check the level of contrast between the color of the search bar and the background shade of blue (#1D6FDE); however, Figma did not show me the color in hexadecimal format. The search bar color utilized a surface overlay which meant it was a darkened shade of the background color of 12%. Because of this, I am unsure if the level of contrast is satisfactory for the search bar. 
+
