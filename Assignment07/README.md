@@ -32,6 +32,6 @@
 - I chose the color scheme based on the original colors of the UCLA Economics website. The UCLA Economics website utilizes blue, white, and black primarily. I started off utlizing the theme colors within Figma. One of the theme colors was called Blue 1 (#2F80ED) and I originally assumed that there would be no issues with contrast because it appeared similar to the color utilized on the website. When testing the accessibility of colors, I discovered that it failed to qualify for 4.5:1 ratio with the white background (#FFFFFF). I decided to change the saturation to a darker shade of blue (#1D6FDE). This shade of blue fulfilled the WCAG 2.0 AA level. 
 
 <img src="./contrast fail.png" width ="50%">
-
+<img src="./contrast 1.png" width ="50%">
 - I also checked the contrast between black (#000000) and white (#FFFFFF). It passed all color contrast testing. 
 
