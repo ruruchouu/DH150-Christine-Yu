@@ -20,6 +20,9 @@
 
 ## Screen Designs
 
+<img src="./screen 1.png">
+<img src="./screen 2.png">
+
 ## Wireflow with the Screen Designs
  
 <img src="./wireflow image.png">
