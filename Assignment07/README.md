@@ -6,7 +6,7 @@
 - Interactive Prototype: https://www.figma.com/proto/12uOULPQAPqHf83Bf2iLLo/High-Fidelity-Prototype?node-id=1%3A5838&scaling=scale-down
 
 
-- Wireframe URL: <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F12uOULPQAPqHf83Bf2iLLo%2FHigh-Fidelity-Prototype%3Fnode-id%3D1%253A5814" allowfullscreen></iframe>
+- Wireframe URL: https://www.figma.com/file/12uOULPQAPqHf83Bf2iLLo/High-Fidelity-Prototype?node-id=1%3A5814
 
 # Brief Summary: Purpose and Process
 - This is a high-fidelity test for the UCLA Economics Website. I created this prototype by using Figma. The purpose of this test is to evaluate the effectiveness and usability of performing three tasks. These three tasks were inspired by three personas from a prior assignment: Justin, Betty, and Peter. The key tasks are improved search results, ability to add workshop event to a calendar, and access to an international resource section. 
