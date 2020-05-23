@@ -3,7 +3,7 @@
 
 # Prototype Links
 
-- Interactive Prototype: https://www.figma.com/proto/12uOULPQAPqHf83Bf2iLLo/High-Fidelity-Prototype?node-id=1%3A5838&scaling=scale-down
+- Interactive Prototype (Version 1): https://www.figma.com/proto/12uOULPQAPqHf83Bf2iLLo/High-Fidelity-Prototype?node-id=1%3A5838&scaling=scale-down
 
 
 - Wireframe URL: https://www.figma.com/file/12uOULPQAPqHf83Bf2iLLo/High-Fidelity-Prototype?node-id=1%3A5814
@@ -25,12 +25,12 @@
 
 # Prototype Designs
 
-## Screen Designs
+## Screen Designs (Version 1)
 
 <img src="./screen 1.png">
 <img src="./screen 2.png">
 
-## Wireflow with the Screen Designs
+## Wireflow with the Screen Designs (Version 1)
  
 <img src="./wireflow image.png">
 
@@ -52,4 +52,15 @@
 
 - I used Roboto in size 14 for the body texts on the pages. For page titles, I used Roboto of size 24. This consistency made it easier to read and readers could distinguish between text by size. Roboto has simple lettering that would help the reader process text easily. Roboto was similar in font to the original font of the UCLA Economics website. 
 
+# Impression Test and Cognitive Walkthrough
 
+https://docs.google.com/document/d/1WZQ3Wpv1MQy2v7nslzcC8CXBeUd0vwptEGRSaAEEtiA/edit?usp=sharing
+
+The impression test and cognitive walkthrough revealed several issues that I wanted to revise within the prototype. 
+- Users expected a back button for the search pages rather than using the home button to go back.
+- Since it was a mobile setting, users recommended stacking the information vertically rather than horizontally on the mobile website so the font would be larger. 
+- Users recommended having a progress bar for the calendar sign up so that they would know progress is being made. 
+- Users found it strange that there is a list of numbered search results and wanted it to be unnumbered. 
+- Some users found the picture of Royce to be unnecessarily large and could be used as a backdrop instead. 
+
+After revising the prototype, I created a version 2. 
