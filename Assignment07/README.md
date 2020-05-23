@@ -87,14 +87,15 @@ This version 2 reflects revisions that were recommended by users and present muc
 
 Overall, I successfully prototyped the three tasks of providing improved search results, demonstrating access to an international resource section, and adding workshops to a personal calendar. While I initially used the UCLA Economics website as the starting point for the formatting of the screens, user feedback helped me realize this formatting was not optimized in the mobile format. It was true that the font was small and made it difficult to determine interaction points if I followed the side by side arrangement of the original website. By realizing that I did not have to follow the exact guidelines of the original, I could revise the prototype to promote usability and clarity. 
 
-Some of my personal thoughts for prototyping such as numbering the search results did not seem helpful for users. I realized that it is difficult to separate my personal preferences and that I should be more conscious of my own biases toward the prototype. Just because I think it is a good idea does not mean that other users would need or want that result. 
+Some of my personal thoughts for prototyping such as numbering the search results did not seem helpful for users. I realized that it is difficult to separate my personal preferences and that I should be more conscious of my own biases toward the prototype. Just because I think it is a good idea does not mean that other users would need or want that result. The development of the prototype went smoothly and I expected that users would mostly have positive feedback for version 1; however, I was surprised that users had some constructive criticisms of my prototype. Again, I needed to take a step back from the prototype and view it as a user would if they had no experience with the website. 
 
 **Revisions**
-The revisions I made are adding back and forward buttons on the search results so that users can easily go backward and forward. I removed the numbering from the search results.
 
-I stacked the information vertically on the home page screens and I also made a drop shadow effect on the calendar to make it clear that it was clickable. I increased the font size for the calendar on the home page. 
+- The revisions I made are adding back and forward buttons on the search results so that users can easily go backward and forward. I removed the numbering from the search results.
 
-I added a progress slider at the bottom of the workshop sign up pages indicating 25,50,75, and 100 percent progress being made. 
+- I stacked the information vertically on the home page screens and I also made a drop shadow effect on the calendar to make it clear that it was clickable. I increased the font size for the calendar on the home page. 
 
-I made Royce Hall into the size of a banner instead of the original large size and it reduced the focus on the image. This insight was helpful because I did not realize it deterred users' navigation through the page. 
+- I added a progress slider at the bottom of the workshop sign up pages indicating 25,50,75, and 100 percent progress being made. 
+
+- I made Royce Hall into the size of a banner instead of the original large size and it reduced the focus on the image. This insight was helpful because I did not realize it deterred users' navigation through the page. 
 
