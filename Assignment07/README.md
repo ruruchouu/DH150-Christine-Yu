@@ -60,9 +60,11 @@ The impression test and cognitive walkthrough revealed several issues that I wan
 
 **Impression Test**
 
-The overall impression was that the prototype reflected the UCLA Economics department. 
+The overall impression was that the prototype reflected the UCLA Economics department and that the primary audience for the website was the faculty, undergraduate population, and graduate level population. Users got the impression that you could sign up for workshops with the calendar and perform searches. However, some users were unable to determine that the calendar was clickable. The users wanted back buttons for the search screens. 
 
 **Cognitive Walkthrough** 
+Overall, user found that the buttons were understandable and had consistency with the blue coloring. Some users found that the calendar was unclear and the font was very small so they provided several recommendations, such as vertical stacking of information. The other recommendations are listed below:
+
 - Users expected a back button for the search pages rather than using the home button to go back.
 - Since it was a mobile setting, users recommended stacking the information vertically rather than horizontally on the mobile website so the font would be larger. 
 - Users recommended having a progress bar for the calendar sign up so that they would know progress is being made. 
