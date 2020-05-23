@@ -57,14 +57,24 @@
 https://docs.google.com/document/d/1WZQ3Wpv1MQy2v7nslzcC8CXBeUd0vwptEGRSaAEEtiA/edit?usp=sharing
 
 The impression test and cognitive walkthrough revealed several issues that I wanted to revise within the prototype. 
+
+**Impression Test**
+
+The overall impression was that the prototype reflected the UCLA Economics department. 
+
+**Cognitive Walkthrough** 
 - Users expected a back button for the search pages rather than using the home button to go back.
 - Since it was a mobile setting, users recommended stacking the information vertically rather than horizontally on the mobile website so the font would be larger. 
 - Users recommended having a progress bar for the calendar sign up so that they would know progress is being made. 
 - Users found it strange that there is a list of numbered search results and wanted it to be unnumbered. 
 - Some users found the picture of Royce to be unnecessarily large and could be used as a backdrop instead. 
 
+# Prototype Version 2
+
 After revising the prototype, I created a version 2. 
 
-- Interactive Prototype (Version 2) https://www.figma.com/proto/gBYc7GWlX1WLXAPrrcAg3n/High-Fidelity-Prototype-Version-2?node-id=1%3A5838&scaling=scale-down
+- Interactive Prototype (Version 2): https://www.figma.com/proto/gBYc7GWlX1WLXAPrrcAg3n/High-Fidelity-Prototype-Version-2?node-id=1%3A5838&scaling=scale-down
 
-- Wireframe URL (Version 2) 
+- Wireframe URL (Version 2):https://www.figma.com/file/gBYc7GWlX1WLXAPrrcAg3n/High-Fidelity-Prototype-Version-2?node-id=1%3A5814
+
+
