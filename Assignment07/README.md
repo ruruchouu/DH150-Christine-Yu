@@ -63,11 +63,13 @@ The impression test and cognitive walkthrough revealed several issues that I wan
 The overall impression was that the prototype reflected the UCLA Economics department and that the primary audience for the website was the faculty, undergraduate population, and graduate level population. Users got the impression that you could sign up for workshops with the calendar and perform searches. However, some users were unable to determine that the calendar was clickable. The users wanted back buttons for the search screens. 
 
 **Cognitive Walkthrough** 
-Overall, user found that the buttons were understandable and had consistency with the blue coloring. Some users found that the calendar was unclear and the font was very small so they provided several recommendations, such as vertical stacking of information. The other recommendations are listed below:
+
+Overall, users found that the buttons were understandable and had consistency with the blue coloring. Some users thought that the calendar was unclear and the font was very small so they provided recommendations, such as vertical stacking of information. Users thought interaction points were clear between one screen and the next. 
+The other recommendations for improvement are listed below:
 
 - Users expected a back button for the search pages rather than using the home button to go back.
 - Since it was a mobile setting, users recommended stacking the information vertically rather than horizontally on the mobile website so the font would be larger. 
-- Users recommended having a progress bar for the calendar sign up so that they would know progress is being made. 
+- Users recommended having a progress bar for the sign up pages so that they would know progress is being made. 
 - Users found it strange that there is a list of numbered search results and wanted it to be unnumbered. 
 - Some users found the picture of Royce to be unnecessarily large and could be used as a backdrop instead. 
 
@@ -79,4 +81,20 @@ After revising the prototype, I created a version 2.
 
 - Wireframe URL (Version 2):https://www.figma.com/file/gBYc7GWlX1WLXAPrrcAg3n/High-Fidelity-Prototype-Version-2?node-id=1%3A5814
 
+This version 2 reflects revisions that were recommended by users and present much more clearly in a mobile format compared to version 1. 
+
+# Reflection and Revisions
+
+Overall, I successfully prototyped the three tasks of providing improved search results, demonstrating access to an international resource section, and adding workshops to a personal calendar. While I initially used the UCLA Economics website as the starting point for the formatting of the screens, user feedback helped me realize this formatting was not optimized in the mobile format. It was true that the font was small and made it difficult to determine interaction points if I followed the side by side arrangement of the original website. By realizing that I did not have to follow the exact guidelines of the original, I could revise the prototype to promote usability and clarity. 
+
+Some of my personal thoughts for prototyping such as numbering the search results did not seem helpful for users. I realized that it is difficult to separate my personal preferences and that I should be more conscious of my own biases toward the prototype. Just because I think it is a good idea does not mean that other users would need or want that result. 
+
+**Revisions**
+The revisions I made are adding back and forward buttons on the search results so that users can easily go backward and forward. I removed the numbering from the search results.
+
+I stacked the information vertically on the home page screens and I also made a drop shadow effect on the calendar to make it clear that it was clickable. I increased the font size for the calendar on the home page. 
+
+I added a progress slider at the bottom of the workshop sign up pages indicating 25,50,75, and 100 percent progress being made. 
+
+I made Royce Hall into the size of a banner instead of the original large size and it reduced the focus on the image. This insight was helpful because I did not realize it deterred users' navigation through the page. 
 
