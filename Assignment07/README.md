@@ -64,3 +64,7 @@ The impression test and cognitive walkthrough revealed several issues that I wan
 - Some users found the picture of Royce to be unnecessarily large and could be used as a backdrop instead. 
 
 After revising the prototype, I created a version 2. 
+
+- Interactive Prototype (Version 2) https://www.figma.com/proto/gBYc7GWlX1WLXAPrrcAg3n/High-Fidelity-Prototype-Version-2?node-id=1%3A5838&scaling=scale-down
+
+- Wireframe URL (Version 2) 
