@@ -24,7 +24,8 @@ Through contextual inquiry, I observed how a user would naturally navigate the a
 
 ### UX storytelling
 In UX storytelling, I created 3 personas that revealed distinct motivations and needs for the UCLA Economics website. It helps open my eyes to what sort of issues I should address within the website. 
-1. 
+
+1 - 
 
 <img src ="https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/Persona%201.png">
 
