@@ -60,16 +60,19 @@ By compiling all the information I gathered from heuristic analysis, user testin
 ### Optional evaluation and revision history 
 
 *Impression Test and Cognitive Walkthrough*
-The impression test is used to understand the first impression of a user that encounters the website. It accesses the expectations of tasks that could be done and the thematic content of the website. The overall impression was that the prototype reflected the UCLA Economics department and that the primary audience for the website was the faculty, undergraduate population, and graduate level population. Users got the impression that you could sign up for workshops with the calendar and perform searches.
 
-As for cognitive walkthrough, it has the users progress through the tasks and assess the intuitiveness of interaction points, consistency of screen layouts, and the amount of progress being made. By understanding how users navigate through tasks, developers can determine the usability of the flow and improvements for further prototypes. Users found that the buttons were understandable and had consistency with the blue coloring. Some users thought that the calendar was unclear and the font was very small so they provided recommendations, such as vertical stacking of information. 
+- The impression test is used to understand the first impression of a user that encounters the website. It accesses the expectations of tasks that could be done and the thematic content of the website. The overall impression was that the prototype reflected the UCLA Economics department and that the primary audience for the website was the faculty, undergraduate population, and graduate level population. Users got the impression that you could sign up for workshops with the calendar and perform searches.
+
+- As for cognitive walkthrough, it has the users progress through the tasks and assess the intuitiveness of interaction points, consistency of screen layouts, and the amount of progress being made. By understanding how users navigate through tasks, developers can determine the usability of the flow and improvements for further prototypes. Users found that the buttons were understandable and had consistency with the blue coloring. Some users thought that the calendar was unclear and the font was very small so they provided recommendations, such as vertical stacking of information. 
 
 [Transcript for Impression Test and Cognitive Walkthrough…](https://docs.google.com/document/d/1WZQ3Wpv1MQy2v7nslzcC8CXBeUd0vwptEGRSaAEEtiA/edit?usp=sharing)
 
  *Accessibility audit*
+ - The accessibility audit is performed to assess how users with disabilities may have difficulties navigating the prototype. This accessiblity audit 
  
  
  *Usability testing*
+ 
 ### Pitch video 
 
 ### Conclusion: what did you learn throughout the process?
