@@ -9,8 +9,13 @@ In this increasingly globalized society, it is important to have a reliable sour
 
 ### Competitor analysis
 #### Heuristic Evaluation
-I conducted a heuristic analysis of two websites that targeted the UCLA population: UCLA Economics and Summer Sessions. I utilized Jakob Nielsen’s 10 Usability Heuristics for User Interface Design to identify usability problems and analyze the severity of issues that existed on the two websites. I found that the UCLA Economics website has several problems ranging from cluttered graphics to inability to provide error prevention in search results. 
+I conducted a heuristic analysis of two websites that targeted the UCLA population: UCLA Economics and Summer Sessions. I utilized Jakob Nielsen’s 10 Usability Heuristics for User Interface Design to identify usability problems and analyze the severity of issues that existed on the two websites. I found that the UCLA Economics website has several problems ranging from cluttered graphics to inability to provide error prevention in search results. There were also issues with its flexibility and efficiency of use. 
 [read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/README.md)
+
+#### Usability Testing
+I conducted a usability test to understand how other users perceive the website and evaluate how the website enhances or hinders the user's ability to conduct certain tasks. The user will go through three tasks: perform a search for Economics Requirements, locate career resources and pathways for an economics major, and find the counseling department in order to book an appointment with a counselor. 
+
+[read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment02/README.md)
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
