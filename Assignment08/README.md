@@ -2,10 +2,11 @@
 ## Christine Yu
 
 ### Introduction 
-What is the project about? The motivation of the project and possible contribution.
+In this project, I propose a new UX design for navigating the UCLA Economics website. The UCLA Economics website provides several services to the UCLA student population: it offers resources for transitioning into career pathways, searching for class requirements, reading new research, and signing up for workshops. While many resources are offered on the UCLA Economics website, there are a few improvements that could be implemented. Search results were often poorly formated and unhelpful. Sections of the website failed to provide sufficient insight for international students. Workshop sign ups could be enhanced by drawing more attention to the various seminars and increasing attendance by linking to calendars. By recognizing the search issues and lack of international student resources, I was motivated to provide a more accessible and satisfactory user experience. As a frequent user of the website, I believe these proposed changes will be able to serve a wider section of the student population and provide clear answers for any questions that students and parents may have. 
 
-### Clear design statement: 
+### Design Statement
 What is the issue and Why do you think it is important to resolve that issue by your project? 
+
 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
