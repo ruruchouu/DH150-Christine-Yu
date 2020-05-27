@@ -68,11 +68,10 @@ By compiling all the information I gathered from heuristic analysis, user testin
 [Transcript for Impression Test and Cognitive Walkthrough…](https://docs.google.com/document/d/1WZQ3Wpv1MQy2v7nslzcC8CXBeUd0vwptEGRSaAEEtiA/edit?usp=sharing)
 
  *Accessibility audit*
- - The accessibility audit is performed to assess how users with disabilities may have difficulties navigating the prototype. This accessiblity audit 
+ - The accessibility audit is performed to assess how users with disabilities may have difficulties navigating the prototype. This accessiblity audit is used to determine the level of color contrast between the colors chosen for the theme. With insufficient contrast, color-blind individuals and those who have vision difficulties would find it hard to differentiate text from the background and would struggle to read through the information. My initial color choice for blue failed the color test so I learned to choose a darker shade of blue that fulfills WCAG 2.0 AA level. 
  
- 
- *Usability testing*
- 
+[read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment07/README.md)
+
 ### Pitch video 
 
 ### Conclusion: what did you learn throughout the process?
