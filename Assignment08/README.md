@@ -31,7 +31,9 @@ In UX storytelling, I created 3 personas that revealed distinct motivations and 
 
 3. Jeff Baylor is a high school student. He would like to become an Economics major if he is admitted to UCLA. Jeff knows that most colleges accept AP credits, but he wants to know the specific types of credit his AP courses could count for in terms of Economics prerequisites. He hopes that he could shorten the time he needs to spend doing pre-major courses so he can take out fewer loans in college. Jeff browses the UCLA Economics website to see if they have AP credits listed on the website.
 
-[read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/README.md)
+I learned that these personas would benefit from an International Resources menu section, open research portal, and improved search capabilities in the UCLA Economics website. [read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/README.md)
+
+
 <img src ="https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/Persona%201.png">
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
