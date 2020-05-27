@@ -23,9 +23,13 @@ Through contextual inquiry, I observed how a user would naturally navigate the a
 [read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment04/README.md)
 
 ### UX storytelling
-In UX storytelling, I created 3 personas that revealed distinct motivations and needs for the UCLA Economics website. It helps open my eyes to what sort of issues I should address within the website. 
+In UX storytelling, I created 3 personas that revealed distinct motivations and needs for the UCLA Economics website. It helps open my eyes to what sort of issues I should address within the website. The user's journey explains a user's progression from a challenge to its resolution. This aspect of UX storytelling can help develop ideas for solving usability issues.
 
-1 - 
+1. Sara Li is an incoming freshman at UCLA. She is an international student from China and still struggles with unfamiliar English terms. She has been searching the Economics website in hopes of finding an international students section on the website where she will be able to see the requirements in one place and contact upperclassmen for guidance. She wants to find campus resources for international students.
+
+2. Bobby Watson is a rising junior at UCLA. He wants to do research in economics prior to graduation. Bobby has emailed professors with cover letters and his resume, but he continues to receive rejections. After all these rejections, Bobby is wondering if he should continue on his path to graduate school. Bobby looks through the UCLA Economics website to see if there are open research positions.
+
+3. Jeff Baylor is a high school student. He would like to become an Economics major if he is admitted to UCLA. Jeff knows that most colleges accept AP credits, but he wants to know the specific types of credit his AP courses could count for in terms of Economics prerequisites. He hopes that he could shorten the time he needs to spend doing pre-major courses so he can take out fewer loans in college. Jeff browses the UCLA Economics website to see if they have AP credits listed on the website.
 
 [read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/README.md)
 <img src ="https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/Persona%201.png">
