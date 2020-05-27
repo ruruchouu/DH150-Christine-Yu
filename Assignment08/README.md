@@ -9,8 +9,8 @@ In this increasingly globalized society, it is important to have a reliable sour
 
 ### Competitor analysis
 #### Heuristic Evaluation
-
-
+I conducted a heuristic analysis of two websites that targeted the UCLA population: UCLA Economics and Summer Sessions. 
+[read more…](url-of-the-assignment)
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
