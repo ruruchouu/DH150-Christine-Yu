@@ -18,11 +18,15 @@ I conducted a usability test to understand how other users perceive the website 
 I learned that the user would encounter frustrations due to inability to complete the first task and found that the website was complicated and difficult to navigate. He felt the website had links that were often hidden from the user. The user noted that the website is "intimidating" and those with less technical knowledge would struggle with the website. 
 [read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment02/README.md)
 
-### User research
+### User research: Contextual Inquiry
+Through contextual inquiry, I observed how a user would naturally navigate the academic search process without any guidance. By examining my target demographic, I am able to gain insights into the context of use, general preferences, concerns, and troubles that a typical user would encounter. I learned that search for the users is primarily performed through computer and that means the website experience should be optimized for the computer. Academic information that is commonly searched for are course descriptions, materials and textbooks required, and professor's ratings. The user expects an intuitive search process and would like to experience a larger range of results through partial word searches. This information is helpful because it reduces the impact of my own preconceived notions of what may be beneficial to the users. 
+[read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment04/README.md)
 
+### UX storytelling
+In UX storytelling, I created 3 personas that revealed distinct motivations and needs for the UCLA Economics website. It helps open my eyes to what sort of issues I should address within the website. 
+1. 
 
-### UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+<img src ="https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/Persona%201.png" width = 50%>
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
