@@ -41,11 +41,12 @@ The wireframe allows me to conceptualize what design elements are needed to prov
 
 <img src ="https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment06/prototype%201.png">
 
+For graphic design elements, the wireframe shows consistency with the formatting of the original website with the search bar on the upper right. I chose the color scheme based on the original colors of the UCLA Economics website. The UCLA Economics website utilizes blue, white, and black. I changed the saturation of my original choice of blue to a darker shade so that it would fulfill WCAG AA-level accessibility. 
+
+### Low-fidelity prototype
 
 
-### Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
-
+<img src ="">
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
