@@ -15,10 +15,11 @@ I conducted a heuristic analysis of two websites that targeted the UCLA populati
 #### Usability Testing
 I conducted a usability test to understand how other users perceive the website and evaluate how the website enhances or hinders the user's ability to conduct certain tasks. The user will go through three tasks: perform a search for Economics Requirements, locate career resources and pathways for an economics major, and find the counseling department in order to book an appointment with a counselor. 
 
+I learned that the user would encounter frustrations due to inability to complete the first task and found that the website was complicated and difficult to navigate. He felt the website had links that were often hidden from the user. The user noted that the website is "intimidating" and those with less technical knowledge would struggle with the website. 
 [read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment02/README.md)
 
-### User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+### User research
+
 
 ### UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
