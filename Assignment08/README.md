@@ -27,6 +27,7 @@ In UX storytelling, I created 3 personas that revealed distinct motivations and 
 
 1 - 
 
+[read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/README.md)
 <img src ="https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/Persona%201.png">
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
