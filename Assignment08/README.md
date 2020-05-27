@@ -44,9 +44,11 @@ The wireframe allows me to conceptualize what design elements are needed to prov
 For graphic design elements, the wireframe shows consistency with the formatting of the original website with the search bar on the upper right. I chose the color scheme based on the original colors of the UCLA Economics website. The UCLA Economics website utilizes blue, white, and black. I changed the saturation of my original choice of blue to a darker shade so that it would fulfill WCAG AA-level accessibility. 
 
 ### Low-fidelity prototype
+<img src ="https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment06/prototype%203.jpg">
 
+This low-fidelity prototype helps to document the flow of the three tasks. The wireframes show a home page with a search bar, an International Resources page, date selection on the calendar, and workshop sign up details. The wireflow shows how a user may navigate through the screens. By presenting the user with a low-fidelity prototype, we can evaluate what a user prioritizes when navigating through the wireflow and expand upon what the user's difficulties are. I learned that the user would like to be able to select a range of dates on the calendar. The user also stated that the calendar should utilize brief labels of what event is happening on each day similar to Google Calendar. While some aspects were intuitive to the user, others elements were difficult and these insights were helpful to provide improvements in future revisions. 
+[read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment06/README.md)
 
-<img src ="">
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
