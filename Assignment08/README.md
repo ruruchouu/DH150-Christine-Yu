@@ -49,8 +49,13 @@ For graphic design elements, the wireframe shows consistency with the formatting
 This low-fidelity prototype helps to document the flow of the three tasks. The wireframes show a home page with a search bar, an International Resources page, date selection on the calendar, and workshop sign up details. The wireflow shows how a user may navigate through the screens. By presenting the user with a low-fidelity prototype, we can evaluate what a user prioritizes when navigating through the wireflow and expand upon what the user's difficulties are. I learned that the user would like to be able to select a range of dates on the calendar. The user also stated that the calendar should utilize brief labels of what event is happening on each day similar to Google Calendar. While some aspects were intuitive to the user, others elements were difficult and these insights were helpful to provide improvements in future revisions. 
 [read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment06/README.md)
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+### High-fidelity prototype 
+By compiling all the information I gathered from heuristic analysis, user testing, persona creation, and low-fidelity prototyping, I was able to consolidate the suggested improvements into an interactive prototype. This high-fidelity prototype would expand upon the previous tasks of the low-fidelity prototype by providing complexity and design elements. I am able to gauge where exactly users would have trouble on the prototype and evaluate any confusion or visual frustrations that users encounter. I built the prototype using Figma and created a Version 2 after peer feedback. 
+[read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment07/README.md)
+
+[Test Prototype 1…](https://www.figma.com/proto/12uOULPQAPqHf83Bf2iLLo/High-Fidelity-Prototype?node-id=1%3A5838&scaling=scale-down)
+
+[Test Prototype 2…](https://www.figma.com/proto/gBYc7GWlX1WLXAPrrcAg3n/High-Fidelity-Prototype-Version-2?node-id=1%3A5838&scaling=scale-down)
 
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
@@ -58,3 +63,5 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ### Pitch video 
 
 ### Conclusion: what did you learn throughout the process?
+
+UI/UX design is a highly iterative process and a developer would have to continuously evaluate and learn from user's feedback to reach a finalized prototype. Rather than deciding on what you personally would like from a product, the perspective of a user may suggest other results and concerns. 
