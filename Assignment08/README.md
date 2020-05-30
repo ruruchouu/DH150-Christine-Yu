@@ -74,6 +74,8 @@ By compiling all the information I gathered from heuristic analysis, user testin
 
 ### Pitch video 
 
+View my pitch video at this link : https://youtu.be/bi6w83oXc30
+
 ### Conclusion: what did you learn throughout the process?
 
 UI/UX design is a highly iterative process and a developer would have to continuously evaluate and learn from user's feedback to reach a finalized prototype. Rather than deciding on what you personally would like from a product, the perspective of a user may suggest other results and concerns. I learned that there is a limit to how much I can include in the prototype and not all ideas are useful or helpful. By carefully selecting the best components and incorporating user suggestions, I can create a product that users are satisfied with. 
