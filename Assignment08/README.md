@@ -1,4 +1,4 @@
-# UCLA Economics Website Prototyping Project
+# UCLA Economics Website Improvements Project
 ## Christine Yu DH 150 UX/UI
 
 ### Introduction 
