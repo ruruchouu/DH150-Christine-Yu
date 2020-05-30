@@ -34,7 +34,7 @@ In UX storytelling, I created 3 personas that revealed distinct motivations and 
 I learned that these personas would benefit from an International Resources menu section, open research portal, and improved search capabilities in the UCLA Economics website. [read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/README.md)
 
 
-<img src ="https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment05/Persona%201.png">
+<img src ="https://ruruchouu.github.io/DH150-Christine-Yu/Assignment05/Persona%201.png">
 
 ### Wireframe and graphic design element variation
 The wireframe allows me to conceptualize what design elements are needed to provide these solutions. The sketches show how a user would search for international resources, generate search results, choose a calendar workshop, sign up for a workshop, and link the workshop to their personal calendar. [read more…](https://github.com/ruruchouu/DH150-Christine-Yu/blob/master/Assignment06/README.md)
