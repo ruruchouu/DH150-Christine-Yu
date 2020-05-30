@@ -74,7 +74,7 @@ By compiling all the information I gathered from heuristic analysis, user testin
 
 ### Pitch video 
 
-View my pitch video at this link : https://youtu.be/bi6w83oXc30
+View my pitch video at this link : [YouTube Link](https://youtu.be/bi6w83oXc30)
 
 ### Conclusion: what did you learn throughout the process?
 
